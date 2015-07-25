@@ -41,6 +41,8 @@ vim-commentary https://github.com/tpope/vim-commentary
 vim-go https://github.com/fatih/vim-go
 vim-gitgutter https://github.com/airblade/vim-gitgutter
 gruvbox https://github.com/morhetz/gruvbox
+neocomplete.vim https://github.com/Shougo/neocomplete.vim
+molokai https://www.github.com/fatih/molokai
 """.strip()
 
 GITHUB_ZIP = '%s/archive/master.zip'
